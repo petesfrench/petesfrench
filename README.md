@@ -9,10 +9,14 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm actually really boring.
 
+<<<<<<< HEAD
 ![image](assets/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png =100x)
 
 <div style="display:flex">
 <img src="assets/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" alt="mognodb" width="50px" height="50px">
 </div>
+=======
+![image](assets/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png | width=100)
+>>>>>>> 9090a14c4ba139651d144d0516ed90865d459e13
 
 **I like to keep moving and keep up my momentum**
