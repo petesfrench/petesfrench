@@ -9,6 +9,8 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm actually really boring.
 
+My current passions in programming:
+
 <div style="display:flex">
 <img src="assets/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs-logo" width="100px" height="100px">
 <img src="assets/react-logo.png" alt="react-logo" width="100px" height="100px">
@@ -16,4 +18,8 @@
 <img src="assets/typescript-1174965.webp" alt="typescript-logo" width="100px" height="100px">
 </div>
 
-**I like to keep moving and keep up my momentum**
+My current passions out of programming:
+
+- to keep moving
+- meet like minded people
+- live a peaceful life
