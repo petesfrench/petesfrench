@@ -11,7 +11,7 @@
 
 <div style="display:flex">
 <img src="assets/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs-logo" width="100px" height="100px">
-<img src="/home/peter/Codeworks/Senior/Jobs/petesfrench/assets/react-1-logo-png-transparent.png" alt="react-logo" width="100px" height="100px">
+<img src="assets/react-1-logo-png-transparent.png" alt="react-logo" width="100px" height="100px">
 <img src="assets/1200px-Postgresql_elephant.svg.png" alt="postgres-logo" width="100px" height="100px">
 <img src="assets/typescript-1174965.webp" alt="typescript-logo" width="100px" height="100px">
 </div>
