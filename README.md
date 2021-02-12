@@ -10,10 +10,10 @@
 - ⚡ Fun fact: I'm actually really boring.
 
 <div style="display:flex">
-<img src="assets/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="react-logo" width="100px" height="100px">
+<img src="assets/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs-logo" width="100px" height="100px">
+<img src="assets/react-1-282599.webp" alt="react-logo" width="100px" height="100px">
 <img src="assets/1200px-Postgresql_elephant.svg.png" alt="postgres-logo" width="100px" height="100px">
 <img src="assets/typescript-1174965.webp" alt="typescript-logo" width="100px" height="100px">
-<img src="assets/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs-logo" width="100px" height="100px">
 </div>
 
 **I like to keep moving and keep up my momentum**
