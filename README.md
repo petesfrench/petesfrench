@@ -9,14 +9,11 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm actually really boring.
 
-<<<<<<< HEAD
-![image](assets/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png =100x)
-
 <div style="display:flex">
-<img src="assets/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" alt="mognodb" width="50px" height="50px">
+<img src="assets/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="react-logo" width="100px" height="100px">
+<img src="assets/1200px-Postgresql_elephant.svg.png" alt="postgres-logo" width="100px" height="100px">
+<img src="assets/typescript-1174965.webp" alt="typescript-logo" width="100px" height="100px">
+<img src="assets/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs-logo" width="100px" height="100px">
 </div>
-=======
-![image](assets/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png | width=100)
->>>>>>> 9090a14c4ba139651d144d0516ed90865d459e13
 
 **I like to keep moving and keep up my momentum**
