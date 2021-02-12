@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how I learn and where my talents lie.
 - 👯 I’m looking to collaborate on projects bigger than myself, with the aim to help those who most need it.
 - 🤔 I’m looking for a team that can guide and support me through my development as a programmer.
-- 💬 Ask me about
+- 💬 Favorite quote: "Don't just do something! Sit there!"
 - 📫 How to reach me: ..........
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm actually really boring.
