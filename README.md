@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 With a passion for overcoming challanges and problem I am working towards becoming a better full-stack developer.
 
-<!--
-**petesfrench/petesfrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on a personal project using React & TypeScript
+- 🌱 I’m currently learning how I learn and where my talents lie.
+- 👯 I’m looking to collaborate on projects that can help people with similar minds.
+- 🤔 I’m looking for help with developing my programmer skillz!
+- 💬 Ask me about 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
--->
+
+I like to keep moving and keep up the momentum, I strive for challange and to find ways I can better myself.
+Compassion, food and people!
