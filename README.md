@@ -1,16 +1,14 @@
-### Hi there 👋 With a passion for overcoming challanges and problem I am working towards becoming a better full-stack developer.
+### Hi 👋 With a passion for problem solving and people, I am looking for the next challange with a great team
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a personal project using React & TypeScript
 - 🌱 I’m currently learning how I learn and where my talents lie.
-- 👯 I’m looking to collaborate on projects that can help people with similar minds.
-- 🤔 I’m looking for help with developing my programmer skillz!
+- 👯 I’m looking to collaborate on projects bigger than myself, with the aim to help those who most need it.
+- 🤔 I’m looking for a team that can guide and support me through my development as a programmer.
 - 💬 Ask me about 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ..........
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm actually really boring.
 
-I like to keep moving and keep up the momentum, I strive for challange and to find ways I can better myself.
-Compassion, food and people!
+**I like to keep moving and keep up my momentum**
