@@ -10,7 +10,7 @@
 
 💬 Favorite quote: "Don't just do something! Sit there!"
 
-📫 How to reach me: ..........
+📫 How to reach me: email - peterfrench94@gmail.com, LinkedIn - https://www.linkedin.com/in/petesfrench/
 
 😄 Pronouns: He/Him/His
 
