@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a personal project using React & TypeScript
 
-🌱 I’m currently learning how I learn and where my talents lie
+🌱 I’m currently learning about the immence power of git!
 
 👯 I’m looking to collaborate on projects bigger than myself, with the aim to help those who most need it
 
