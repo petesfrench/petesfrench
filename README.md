@@ -1,8 +1,8 @@
 ### Hi 👋 With a passion for problem solving and people, I am looking for the next challange with a great team!
 
-🔭 I’m currently working on a personal project using React & TypeScript
+🔭 I’m currently working on a personal project for making music using React & TypeScript
 
-🌱 I’m currently learning about the immence power of git!
+🌱 I’m currently becoming a git master!
 
 👯 I’m looking to collaborate on projects bigger than myself, with the aim to help those who most need it
 
